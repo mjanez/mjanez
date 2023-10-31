@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @mjanez
-🌍 Geospatial enthusiast and software developer working mainly with Docker 🐋 & Python 🐍. passionate about data, spatial analysis, and environmental solutions. Specialized in Geographic Information Systems (GIS) development, Open Data portals, and adhering to international standards (ISO, INSPIRE, OGC, DCAT).
+🌍 Geospatial enthusiast and software developer working mainly with Docker 🐋 & Python 🐍. Passionate about data, spatial analysis and environmental solutions. Specialised in Geographic Information Systems (GIS) development, open data portals and compliance with international standards (ISO, INSPIRE, OGC, DCAT).
 
 ---
 #### 👷 Check out what I'm currently working on ...
