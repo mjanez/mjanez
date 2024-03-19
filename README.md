@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on ...
 ##### GIS & Open Data
 - [mjanez/ckan-docker](https://github.com/mjanez/ckan-docker) - A custom-built platform based on Docker with specific extensions for spatial data and [GeoDCAT-AP](https://github.com/SEMICeu/GeoDCAT-AP)/[INSPIRE](https://github.com/INSPIRE-MIF/technical-guidelines) [profiles](https://en.wikipedia.org/wiki/Geospatial_metadata).
-- [mjanez/ckan-ansible](https://github.com/mjanez/ckan-ansible) - Automates CKAN deployments across various environments using [Ansible](https://www.ansible.com/).
+- [mjanez/ckan-ansible](https://github.com/mjanez/ckan-ansible) - Automates CKAN deployments across different environments using [Ansible](https://www.ansible.com/).
 - [mjanez/docker-webgis](https://github.com/mjanez/docker-webgis) - A GIS infrastructure with Geoserver-PostGIS and a full-featured OpenLayers based map viewer and editor.
 - [mjanez/geopostgis_manager](https://github.com/mjanez/geopostgis_manager) - Spatial dataset manager for automated PostGIS-Geoserver workflows.
 - [opendatagis/mapa-riesgos](https://github.com/OpenDataGIS/mapa-riesgos) - Spatial Data Infrastructure used to distribute data and services.
