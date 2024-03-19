@@ -15,6 +15,7 @@
 - [mjanez-ckan-mqa](https://github.com/mjanez/ckan-mqa) - Docker Compose for [Metadata Quality Assessment (MQA)](https://data.europa.eu/mqa/methodology) on CKAN and European Data Portal catalogs.
 - [mjanez/ckan-ogc](https://github.com/mjanez/ckan-ogc) - Docker-based harvesters (OGC, CSW, LOD,...) for CKAN spatial open data portals.
 - [mjanez/ckanext-scheming_dcat](https://github.com/mjanez/ckanext-scheming_dcat) - Improved ckanext-scheming with DCAT, DCAT-AP and GeoDCAT-AP/INSPIRE custom schemas and tools.
+- [mjanez/ckan-openapi](https://github.com/mjanez/ckan-openapi) - Documents the CKAN API using [Swagger](https://swagger.io/), offering clear and concise reference documentation for CKAN users and developers.
 
 ---
 
