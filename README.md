@@ -14,7 +14,7 @@
 - [mjanez/ckan-pycsw](https://github.com/mjanez/ckan-pycsw) - [pycsw](https://pycsw.org/) endpoint (OGC) for spatial open data portals (GeoDCAT-AP/INSPIRE).
 - [mjanez-ckan-mqa](https://github.com/mjanez/ckan-mqa) - Docker Compose for [Metadata Quality Assessment (MQA)](https://data.europa.eu/mqa/methodology) on CKAN and European Data Portal catalogs.
 - [mjanez/ckan-ogc](https://github.com/mjanez/ckan-ogc) - Docker-based harvesters (OGC, CSW, LOD,...) for CKAN spatial open data portals.
-- [mjanez/ckanext-scheming_dcat](https://github.com/mjanez/ckanext-scheming_dcat) - Improved ckanext-scheming with DCAT, DCAT-AP and GeoDCAT-AP/INSPIRE custom schemas and tools.
+- [mjanez/ckanext-schemingdcat](https://github.com/mjanez/ckanext-schemingdcat) - Improved ckanext-scheming with DCAT, DCAT-AP and GeoDCAT-AP/INSPIRE custom schemas and harvesters, UI improvements and more tools!
 
 ##### Your One-Stop Shop for All Things CKAN
  - [mjanez/ckan-docs](https://github.com/mjanez/ckan-docs) - [CKAN Docs](https://mjanez.github.io/ckan-docs): A comprehensive guide for deploying CKAN in various environments, complete with API documentation, tips, and more, all in a multilang Docusaurus website (`EN`/`ES`).
