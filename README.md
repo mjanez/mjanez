@@ -18,7 +18,7 @@
 
 ##### Your One-Stop Shop for All Things CKAN
  - [mjanez/ckan-docs](https://github.com/mjanez/ckan-docs) - [CKAN Docs](https://mjanez.github.io/ckan-docs): A comprehensive guide for deploying CKAN in various environments, complete with API documentation, tips, and more, all in a multilang Docusaurus website (`EN`/`ES`).
-- [mjanez/ckan-openapi](https://github.com/mjanez/ckan-openapi) - Documents the CKAN API using [Swagger](https://swagger.io/), offering clear and concise reference documentation for CKAN users and developers.
+- [mjanez/ckanext-openapi](https://github.com/mjanez/ckanext-openapi) - Integrates, displays and documents OpenAPI endpoints directly in the CKAN catalog using [Swagger](https://swagger.io/), offering clear and concise reference documentation for CKAN users and developers.
 ---
 
 #### 📊 Stats
