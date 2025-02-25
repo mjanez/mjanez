@@ -6,6 +6,8 @@
 ##### GIS & Open Data
 - [mjanez/ckan-docker](https://github.com/mjanez/ckan-docker) - A custom-built platform based on Docker with specific extensions for spatial data and [GeoDCAT-AP](https://github.com/SEMICeu/GeoDCAT-AP)/[INSPIRE](https://github.com/INSPIRE-MIF/technical-guidelines) [profiles](https://en.wikipedia.org/wiki/Geospatial_metadata).
 - [mjanez/ckan-ansible](https://github.com/mjanez/ckan-ansible) - Automates CKAN deployments across different environments using [Ansible](https://www.ansible.com/).
+- [mjanez/easy-rdf-endpoint](https://github.com/mjanez/easy-rdf-endpoint) - A simple Dockerized RDF endpoint that serves an .rdf file and publish a [SPARQL endpoint](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
+- [mjanez/virtuoso-docker](https://github.com/mjanez/virtuoso-docker) - A small setup to run a [Virtuoso](https://virtuoso.openlinksw.com/) instance in docker container and load a dataset into it.
 - [mjanez/docker-webgis](https://github.com/mjanez/docker-webgis) - A GIS infrastructure with Geoserver-PostGIS and a full-featured OpenLayers based map viewer and editor.
 - [mjanez/geopostgis_manager](https://github.com/mjanez/geopostgis_manager) - Spatial dataset manager for automated PostGIS-Geoserver workflows.
 - [opendatagis/mapa-riesgos](https://github.com/OpenDataGIS/mapa-riesgos) - Spatial Data Infrastructure used to distribute data and services.
