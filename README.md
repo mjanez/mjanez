@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m @mjanez
-🌍 Geospatial enthusiast and software developer working mainly with containers 🐋 & Python 🐍. Passionate about data, spatial analysis and environmental solutions. Specialised in Geographic Information Systems (GIS) development, Open Data portals and compliance with international standards (ISO, INSPIRE, OGC, DCAT-AP & NTI-RISP).
+🌍 Geospatial enthusiast and software developer specializing in containers 🐋 and Python 🐍. Passionate about data, spatial analysis, and environmental solutions. Expertise in GIS development, Linked Data, and Open Data portals, ensuring compliance with international standards such as ISO, INSPIRE, OGC, DCAT-AP, and DCAT-AP-ES/NTI-RISP.
 
 ---
 #### 👷 Check out what I'm currently working on ...
-##### GIS & Open Data
+##### Open Data, Semantics and GIS
 - [mjanez/ckan-docker](https://github.com/mjanez/ckan-docker) - A custom-built platform based on Docker with specific extensions for spatial data and [GeoDCAT-AP](https://github.com/SEMICeu/GeoDCAT-AP)/[INSPIRE](https://github.com/INSPIRE-MIF/technical-guidelines) [profiles](https://en.wikipedia.org/wiki/Geospatial_metadata).
 - [mjanez/ckan-ansible](https://github.com/mjanez/ckan-ansible) - Automates CKAN deployments across different environments using [Ansible](https://www.ansible.com/).
 - [mjanez/easy-rdf-endpoint](https://github.com/mjanez/easy-rdf-endpoint) - A simple Dockerized RDF endpoint that serves an .rdf file and publish a [SPARQL endpoint](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
@@ -11,6 +11,11 @@
 - [mjanez/docker-webgis](https://github.com/mjanez/docker-webgis) - A GIS infrastructure with Geoserver-PostGIS and a full-featured OpenLayers based map viewer and editor.
 - [mjanez/geopostgis_manager](https://github.com/mjanez/geopostgis_manager) - Spatial dataset manager for automated PostGIS-Geoserver workflows.
 - [opendatagis/mapa-riesgos](https://github.com/OpenDataGIS/mapa-riesgos) - Spatial Data Infrastructure used to distribute data and services.
+
+##### Metadata & Data quality
+- [mjanez/metadata-quality-stack](https://github.com/mjanez/metadata-quality-stack) - A comprehensive toolkit for analysing the quality of open data metadata. Based on the European Data Portal's Metadata Quality Assessment (MQA) methodology.
+- [mjanez/shacl-validator](https://github.com/mjanez/shacl-validator) - Web and command-line application for the validation of RDF data.
+- [mjanez/dcates-audit](https://github.com/mjanez/dcates-audit) - Automated audits according to data specifications.
 
 ##### CKAN improvements
 - [mjanez/ckan-pycsw](https://github.com/mjanez/ckan-pycsw) - [pycsw](https://pycsw.org/) endpoint (OGC) for spatial open data portals (GeoDCAT-AP/INSPIRE).
