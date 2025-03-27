@@ -15,6 +15,7 @@
 ##### Metadata & Data quality
 - [mjanez/metadata-quality-stack](https://github.com/mjanez/metadata-quality-stack) - A comprehensive toolkit for analysing the quality of open data metadata. Based on the European Data Portal's Metadata Quality Assessment (MQA) methodology.
 - [mjanez/shacl-validator](https://github.com/mjanez/shacl-validator) - Web and command-line application for the validation of RDF data.
+- [mjanez/dcat-ap-es-validator](https://github.com/mjanez/dcat-ap-es-validator) -  Docker-based SHACL Validator for checking DCAT-AP-ES (Spanish Application Profile based on DCAT-AP)
 - [mjanez/dcates-audit](https://github.com/mjanez/dcates-audit) - Automated metadata audits according to data profile applications.
 
 ##### CKAN improvements
