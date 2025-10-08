@@ -14,7 +14,7 @@
 
 ##### Metadata & Data quality
 - [mjanez/metadata-quality-react](https://github.com/mjanez/metadata-quality-react) - [React web application](https://mjanez.github.io/metadata-quality-react/) for evaluating metadata quality based on the [EDP's MQA methodology](https://data.europa.eu/mqa/methodology). 
-- [mjanez/metadata-quality-stack](https://github.com/mjanez/metadata-quality-stack) - This comprehensive toolkit uses Docker Compose to analyse metadata quality and SHACL validation.
+- [mjanez/metadata-quality-app](https://github.com/mjanez/metadata-quality-app) - Quick [Next.js](https://nextjs.org/docs) deployment to analyse metadata quality (MQA) and SHACL validation.
 - [mjanez/shacl-validator](https://github.com/mjanez/shacl-validator) - Web and command-line application for the validation of RDF data.
 - [mjanez/dcat-ap-es-validator](https://github.com/mjanez/dcat-ap-es-validator) -  Docker-based SHACL Validator for checking DCAT-AP-ES (Spanish Application Profile based on DCAT-AP)
 - [mjanez/dcates-audit](https://github.com/mjanez/dcates-audit) - Automated metadata audits according to data profile applications.
