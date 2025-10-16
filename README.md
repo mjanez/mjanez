@@ -1,8 +1,9 @@
 ### 👋 Hi, I’m @mjanez
-🌍 Geospatial enthusiast and software developer specializing in containers 🐋 and Python 🐍. Passionate about data, spatial analysis, and environmental solutions. Expertise in GIS development, Linked Data, and Open Data portals, ensuring compliance with international standards such as ISO, INSPIRE, OGC, DCAT-AP, and DCAT-AP-ES/NTI-RISP.
+**Geospatial developer who loves wrangling data and building open, standard-compliant solutions for everyone**.<br>
+My toolkit: Python, agile deployments, and all things web. Expertise in GIS development, Open Data portals and Linked Data, ensuring compliance with international standards such as ISO, INSPIRE, OGC, DCAT-AP, and DCAT-AP-ES/NTI-RISP.
 
 ---
-#### 👷 Check out what I'm currently working on ...
+#### Check out what I'm currently working on ...
 ##### Open Data, Semantics and GIS
 - [datosgobes/DCAT-AP-ES](https://github.com/datosgobes/DCAT-AP-ES) - The Spain data application profile ([DCAT-AP-ES](https://datos.gob.es/es/blog/dcat-ap-es-un-paso-adelante-en-la-interoperabilidad-de-datos-abiertos)), standard for interoperability, based on [DCAT-AP](https://github.com/SEMICeu/DCAT-AP).
 - [mjanez/ckan-docker](https://github.com/mjanez/ckan-docker) - A custom-built platform based on Docker with specific extensions for spatial data and [GeoDCAT-AP](https://github.com/SEMICeu/GeoDCAT-AP)/[INSPIRE](https://github.com/INSPIRE-MIF/technical-guidelines).
@@ -31,7 +32,7 @@
 - [mjanez/ckanext-openapi](https://github.com/mjanez/ckanext-openapi) - Integrates, displays and documents OpenAPI endpoints directly in the CKAN catalog using [Swagger](https://swagger.io/), offering clear and concise reference documentation for CKAN users and developers.
 ---
 
-#### 📊 Stats
+#### Stats
 
 <picture>
   <source
@@ -59,5 +60,5 @@
 
 ---
 
-#### 🤝 Collaboration
+#### Collaboration
 Open to collaborating on geospatial projects, open data initiatives, and open-source GIS development. Let's connect and innovate together!
