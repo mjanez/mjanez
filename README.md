@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @mjanez
 **Geospatial developer who loves wrangling data and building open, standard-compliant solutions for everyone**.<br>
-My toolkit: Python, agile deployments, and all things web. Expertise in GIS development, Open Data portals and Linked Data, ensuring compliance with international standards such as ISO, INSPIRE, OGC, DCAT-AP, and DCAT-AP-ES/NTI-RISP.
+My toolkit: Python, web engineering, and cloud-native automation. Expertise in geospatial systems, open data development, and semantic integration; ensuring compliance with international standards such as ISO, INSPIRE, OGC, DCAT-AP, and DCAT-AP-ES/NTI-RISP.
 
 ---
 #### Check out what I'm currently working on ...
@@ -61,4 +61,4 @@ My toolkit: Python, agile deployments, and all things web. Expertise in GIS deve
 ---
 
 #### Collaboration
-Open to collaborating on geospatial projects, open data initiatives, and open-source GIS development. Let's connect and innovate together!
+Open to collaborating on geospatial projects, open data initiatives, and open-source development. Let's connect and innovate together!
