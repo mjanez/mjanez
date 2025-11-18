@@ -4,15 +4,19 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 
 ---
 #### Check out what I'm currently working on ...
-##### Open Data, Semantics and GIS
+##### 🌟 Open Data & GIS 
 - [datosgobes/DCAT-AP-ES](https://github.com/datosgobes/DCAT-AP-ES) - The Spain data application profile ([DCAT-AP-ES](https://datos.gob.es/es/blog/dcat-ap-es-un-paso-adelante-en-la-interoperabilidad-de-datos-abiertos)), standard for interoperability, based on [DCAT-AP](https://github.com/SEMICeu/DCAT-AP).
 - [mjanez/ckan-docker](https://github.com/mjanez/ckan-docker) - A custom-built platform based on Docker with specific extensions for spatial data and [GeoDCAT-AP](https://github.com/SEMICeu/GeoDCAT-AP)/[INSPIRE](https://github.com/INSPIRE-MIF/technical-guidelines).
 - [mjanez/ckan-ansible](https://github.com/mjanez/ckan-ansible) - Automates CKAN deployments across different environments using [Ansible](https://www.ansible.com/).
-- [mjanez/easy-rdf-endpoint](https://github.com/mjanez/easy-rdf-endpoint) - A simple Dockerized RDF endpoint that serves an .rdf file and publish a [SPARQL endpoint](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
-- [mjanez/virtuoso-docker](https://github.com/mjanez/virtuoso-docker) - A small setup to run a [Virtuoso](https://virtuoso.openlinksw.com/) instance in docker container and load a dataset into it.
 - [mjanez/docker-webgis](https://github.com/mjanez/docker-webgis) - A GIS infrastructure with Geoserver-PostGIS and a full-featured OpenLayers based map viewer and editor.
 - [mjanez/geopostgis_manager](https://github.com/mjanez/geopostgis_manager) - Spatial dataset manager for automated PostGIS-Geoserver workflows.
 - [opendatagis/mapa-riesgos](https://github.com/OpenDataGIS/mapa-riesgos) - Spatial Data Infrastructure used to distribute data and services.
+
+##### Semantics
+- [mjanez/easy-rdf-endpoint](https://github.com/mjanez/easy-rdf-endpoint) - A simple Dockerized RDF endpoint that serves an .rdf file and publish a [SPARQL endpoint](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
+- [mjanez/virtuoso-docker](https://github.com/mjanez/virtuoso-docker) - A small setup to run a [Virtuoso](https://virtuoso.openlinksw.com/) instance in docker container and load a dataset into it.
+- [mjanez/sparql-naturalizer](https://github.com/mjanez/sparql-naturalizer) - A Next.js app translating natural language to SPARQL queries for intuitive data access.
+- [mjanez/dcat-query-classifier](https://github.com/mjanez/dcat-query-classifier) - Classifies NL questions to SPARQL types for DCAT datasets, linking human intent to structured queries.
 
 ##### Metadata & Data quality
 - [mjanez/metadata-quality-react](https://github.com/mjanez/metadata-quality-react) - [React web application](https://mjanez.github.io/metadata-quality-react/) for evaluating metadata quality based on the [EDP's MQA methodology](https://data.europa.eu/mqa/methodology). 
@@ -26,9 +30,7 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 - [mjanez-ckan-mqa](https://github.com/mjanez/ckan-mqa) - Docker Compose for [Metadata Quality Assessment (MQA)](https://data.europa.eu/mqa/methodology) on CKAN and European Data Portal catalogs.
 - [mjanez/ckan-ogc](https://github.com/mjanez/ckan-ogc) - Docker-based harvesters (OGC, CSW, LOD,...) for CKAN spatial open data portals.
 - [mjanez/ckanext-schemingdcat](https://github.com/mjanez/ckanext-schemingdcat) - Improved ckanext-scheming with DCAT, DCAT-AP and GeoDCAT-AP/INSPIRE custom schemas and harvesters, UI improvements and more tools!
-
-##### Your One-Stop Shop for All Things CKAN
- - [mjanez/ckan-docs](https://github.com/mjanez/ckan-docs) - [CKAN Docs](https://mjanez.github.io/ckan-docs): A comprehensive guide for deploying CKAN in various environments, complete with API documentation, tips, and more, all in a multilang Docusaurus website (`EN`/`ES`).
+- [mjanez/ckan-docs](https://github.com/mjanez/ckan-docs) - [CKAN Docs](https://mjanez.github.io/ckan-docs): A comprehensive guide for deploying CKAN in various environments, complete with API documentation, tips, and more, all in a multilang Docusaurus website (`EN`/`ES`).
 - [mjanez/ckanext-openapi](https://github.com/mjanez/ckanext-openapi) - Integrates, displays and documents OpenAPI endpoints directly in the CKAN catalog using [Swagger](https://swagger.io/), offering clear and concise reference documentation for CKAN users and developers.
 ---
 
