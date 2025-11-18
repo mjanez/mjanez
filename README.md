@@ -16,7 +16,7 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 - [mjanez/easy-rdf-endpoint](https://github.com/mjanez/easy-rdf-endpoint) - A simple Dockerized RDF endpoint that serves an .rdf file and publish a [SPARQL endpoint](https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/).
 - [mjanez/virtuoso-docker](https://github.com/mjanez/virtuoso-docker) - A small setup to run a [Virtuoso](https://virtuoso.openlinksw.com/) instance in docker container and load a dataset into it.
 - [mjanez/sparql-naturalizer](https://github.com/mjanez/sparql-naturalizer) - A Next.js app translating natural language to SPARQL queries for intuitive data access.
-- [mjanez/dcat-query-classifier](https://github.com/mjanez/dcat-query-classifier) - Classifies NL questions to SPARQL types for DCAT datasets, linking human intent to structured queries.
+- [mjanez/dcat-query-classifier](https://github.com/mjanez/dcat-query-classifier) - ML classifier: NL questions to SPARQL types for DCAT datasets.
 
 ##### Metadata & Data quality
 - [mjanez/metadata-quality-react](https://github.com/mjanez/metadata-quality-react) - [React web application](https://mjanez.github.io/metadata-quality-react/) for evaluating metadata quality based on the [EDP's MQA methodology](https://data.europa.eu/mqa/methodology). 
