@@ -22,7 +22,7 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 - [mjanez/metadata-quality-react](https://github.com/mjanez/metadata-quality-react) - [React web application](https://mjanez.github.io/metadata-quality-react/) for evaluating metadata quality based on the [EDP's MQA methodology](https://data.europa.eu/mqa/methodology). 
 - [mjanez/metadata-quality-app](https://github.com/mjanez/metadata-quality-app) - Quick [Next.js](https://nextjs.org/docs) deployment to analyse metadata quality (MQA) and SHACL validation.
 - [mjanez/shacl-validator](https://github.com/mjanez/shacl-validator) - Web and command-line application for the validation of RDF data.
-- [mjanez/dcat-ap-es-validator](https://github.com/mjanez/dcat-ap-es-validator) -  Docker-based SHACL Validator for checking DCAT-AP-ES (Spanish Application Profile based on DCAT-AP)
+- [mjanez/dcat-ap-es-validator](https://github.com/mjanez/dcat-ap-es-validator) - Docker-based SHACL validator for checking DCAT-AP-ES (Spanish profile based on DCAT-AP)
 - [mjanez/dcates-audit](https://github.com/mjanez/dcates-audit) - Automated metadata audits according to data profile applications.
 
 ##### CKAN improvements
@@ -32,6 +32,7 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 - [mjanez/ckanext-schemingdcat](https://github.com/mjanez/ckanext-schemingdcat) - Improved ckanext-scheming with DCAT, DCAT-AP and GeoDCAT-AP/INSPIRE custom schemas and harvesters, UI improvements and more tools!
 - [mjanez/ckan-docs](https://github.com/mjanez/ckan-docs) - [CKAN Docs](https://mjanez.github.io/ckan-docs): A comprehensive guide for deploying CKAN in various environments, complete with API documentation, tips, and more, all in a multilang Docusaurus website (`EN`/`ES`).
 - [mjanez/ckanext-openapi](https://github.com/mjanez/ckanext-openapi) - Integrates, displays and documents OpenAPI endpoints directly in the CKAN catalog using [Swagger](https://swagger.io/), offering clear and concise reference documentation for CKAN users and developers.
+- [mjanez/ckan-mcp-server](https://github.com/mjanez/ckan-mcp-server) - A MCP for GitHub/Claude Code/Windsurf/Cursor to build ckan workflows.
 ---
 
 #### Stats
