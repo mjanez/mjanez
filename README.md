@@ -6,6 +6,7 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 #### Check out what I'm currently working on ...
 ##### 🌟 Open Data & GIS 
 - [datosgobes/DCAT-AP-ES](https://github.com/datosgobes/DCAT-AP-ES) - The Spain data application profile ([DCAT-AP-ES](https://datos.gob.es/es/blog/dcat-ap-es-un-paso-adelante-en-la-interoperabilidad-de-datos-abiertos)), standard for interoperability, based on [DCAT-AP](https://github.com/SEMICeu/DCAT-AP).
+- [mjanez/shacl-validator](https://github.com/mjanez/shacl-validator) - Simple webapp for the validation of RDF catalogs acording to Application Profiles.
 - [mjanez/ckan-docker](https://github.com/mjanez/ckan-docker) - A custom-built platform based on Docker with specific extensions for spatial data and [GeoDCAT-AP](https://github.com/SEMICeu/GeoDCAT-AP)/[INSPIRE](https://github.com/INSPIRE-MIF/technical-guidelines).
 - [mjanez/ckan-ansible](https://github.com/mjanez/ckan-ansible) - Automates CKAN deployments across different environments using [Ansible](https://www.ansible.com/).
 - [mjanez/docker-webgis](https://github.com/mjanez/docker-webgis) - A GIS infrastructure with Geoserver-PostGIS and a full-featured OpenLayers based map viewer and editor.
@@ -22,7 +23,7 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 ##### Metadata & Data quality
 - [mjanez/metadata-quality-react](https://github.com/mjanez/metadata-quality-react) - [React web application](https://mjanez.github.io/metadata-quality-react/) for evaluating metadata quality based on the [EDP's MQA methodology](https://data.europa.eu/mqa/methodology). 
 - [mjanez/metadata-quality-app](https://github.com/mjanez/metadata-quality-app) - Quick [Next.js](https://nextjs.org/docs) deployment to analyse metadata quality (MQA) and SHACL validation.
-- [mjanez/shacl-validator](https://github.com/mjanez/shacl-validator) - Web and command-line application for the validation of RDF data.
+- [mjanez/isaitb-shacl-validator](https://github.com/mjanez/isaitb-shacl-validator) - Web and command-line application for the validation of RDF data.
 - [mjanez/dcat-ap-es-validator](https://github.com/mjanez/dcat-ap-es-validator) - Docker-based SHACL validator for checking DCAT-AP-ES (Spanish profile based on DCAT-AP)
 - [mjanez/dcates-audit](https://github.com/mjanez/dcates-audit) - Automated metadata audits according to data profile applications.
 
