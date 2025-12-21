@@ -39,29 +39,39 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 
 #### Stats
 
+<p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=mjanez&show_icons=true&theme=holi&border_color=668dc8&hide=stars&show=prs_merged_percentage&bg_color=00000000"
+    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=mjanez&show_icons=true&title_color=c8e7ff&text_color=dbeafe&icon_color=06b6d4&border_color=1f2a44&bg_color=00000000&hide=stars&show=prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=mjanez&show_icons=true&theme=shadow_blue&border_color=668dc8&hide=stars&show=prs_merged_percentage"
+    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=mjanez&show_icons=true&title_color=0f172a&text_color=0f172a&icon_color=06b6d4&border_color=94a3b8&bg_color=00000000&hide=stars&show=prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  align="right" src="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=mjanez&hide=stars&show_icons=true&show=prs_merged_percentage" />
+  <img
+    src="https://github-readme-stats-dusky-ten-36.vercel.app/api?username=mjanez&show_icons=true&title_color=0f172a&text_color=0f172a&icon_color=06b6d4&border_color=94a3b8&bg_color=00000000&hide=stars&show=prs_merged_percentage"
+    alt="GitHub overview card"
+    height="196"
+  />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=mjanez&show_icons=true&theme=holi&layout=compact&rank_icon=percentile&border_color=668dc8&langs_count=10&bg_color=00000000"
+    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=mjanez&layout=compact&title_color=c8e7ff&text_color=dbeafe&icon_color=06b6d4&border_color=1f2a44&bg_color=00000000&rank_icon=percentile&langs_count=6"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=mjanez&show_icons=true&theme=shadow_blue&layout=compact&rank_icon=percentile&border_color=668dc8&langs_count=10"
+    srcset="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=mjanez&layout=compact&title_color=0f172a&text_color=0f172a&icon_color=06b6d4&border_color=94a3b8&bg_color=00000000&rank_icon=percentile&langs_count=6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=mjanez&show_icons=true&rank_icon=percentile&border_color=668dc8&langs_count=10" />
+  <img
+    src="https://github-readme-stats-dusky-ten-36.vercel.app/api/top-langs/?username=mjanez&layout=compact&title_color=0f172a&text_color=0f172a&icon_color=06b6d4&border_color=94a3b8&bg_color=00000000&rank_icon=percentile&langs_count=6"
+    alt="Top languages card"
+    height="196"
+  />
 </picture>
+</p>
 
 ---
 
