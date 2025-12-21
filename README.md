@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @mjanez
+### 👋 Hi, I’m [mjanez.dev](https://www.mjanez.dev/)
 **Geospatial developer who loves wrangling data and building open, standard-compliant solutions for everyone**.<br>
 My toolkit: Python, web engineering, and cloud-native automation. Expertise in geospatial systems, open data development, and semantic integration; ensuring compliance with international standards such as ISO, INSPIRE, OGC, DCAT-AP, and DCAT-AP-ES/NTI-RISP.
 
