@@ -21,7 +21,7 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 - [mjanez/dcat-query-classifier](https://github.com/mjanez/dcat-query-classifier) - ML classifier: NL questions to SPARQL types for DCAT datasets.
 
 ##### Metadata & Data quality
-- [mjanez/metadata-quality-react](https://github.com/mjanez/metadata-quality-react) - [React web application](https://mjanez.github.io/metadata-quality-react/) for evaluating metadata quality based on the [EDP's MQA methodology](https://data.europa.eu/mqa/methodology). 
+- [mjanez/metadata-quality-react](https://github.com/mjanez/metadata-quality-react) - [React web application](https://metadata-quality.mjanez.dev/) for evaluating metadata quality based on the [EDP's MQA methodology](https://data.europa.eu/mqa/methodology). 
 - [mjanez/metadata-quality-app](https://github.com/mjanez/metadata-quality-app) - Quick [Next.js](https://nextjs.org/docs) deployment to analyse metadata quality (MQA) and SHACL validation.
 - [mjanez/isaitb-shacl-validator](https://github.com/mjanez/isaitb-shacl-validator) - Web and command-line application for the validation of RDF data.
 - [mjanez/dcat-ap-es-validator](https://github.com/mjanez/dcat-ap-es-validator) - Docker-based SHACL validator for checking DCAT-AP-ES (Spanish profile based on DCAT-AP)
