@@ -9,7 +9,7 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 - [mjanez/shacl-validator](https://github.com/mjanez/shacl-validator) - An user-friendly [web app for validating RDF](https://shacl-validator.mjanez.dev/) files according to Application Profiles or custom SHACL shapes.
 - [mjanez/portaljs-starter-omd](https://github.com/mjanez/portaljs-starter-omd) - Docker-based deployment & PortalJS Framework template for OpenMetadata.
 - [mjanez/ckan-docker](https://github.com/mjanez/ckan-docker) - A custom-built platform based on Docker with specific extensions for spatial data and [GeoDCAT-AP](https://github.com/SEMICeu/GeoDCAT-AP)/[INSPIRE](https://github.com/INSPIRE-MIF/technical-guidelines).
-- - [mjanez/minimum-viable-dataspace](https://github.com/mjanez/minimum-viable-dataspace) - Minimum Viable Dataspace (MVD) deployment kit.
+- [mjanez/minimum-viable-dataspace](https://github.com/mjanez/minimum-viable-dataspace) - Minimum Viable Dataspace (MVD) deployment kit.
 - [mjanez/ckan-ansible](https://github.com/mjanez/ckan-ansible) - Automates CKAN deployments across different environments using [Ansible](https://www.ansible.com/).
 - [mjanez/docker-webgis](https://github.com/mjanez/docker-webgis) - A GIS infrastructure with Geoserver-PostGIS and a full-featured OpenLayers based map viewer and editor..
 - [mjanez/geopostgis_manager](https://github.com/mjanez/geopostgis_manager) - Spatial dataset manager for automated PostGIS-Geoserver workflows.
