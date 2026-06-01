@@ -6,6 +6,7 @@ My toolkit: Python, web engineering, and cloud-native automation. Expertise in g
 #### Check out what I'm currently working on ...
 ##### 🌟 Data & GIS 
 - [datosgobes/DCAT-AP-ES](https://github.com/datosgobes/DCAT-AP-ES) - The Spain data Application Profile ([DCAT-AP-ES](https://datos.gob.es/es/blog/dcat-ap-es-un-paso-adelante-en-la-interoperabilidad-de-datos-abiertos)), standard for interoperability, based on [DCAT-AP](https://github.com/SEMICeu/DCAT-AP).
+- [mjanez/easy-dataspace-deploy](https://github.com/mjanez/easy-dataspace-deploy) - Deploy a fully-featured Data Space Portal (EDC/DSP compatible) with a single `docker compose up`
 - [mjanez/portaljs-starter-omd](https://github.com/mjanez/portaljs-starter-omd)/[portaljs-starter-marmot](https://github.com/mjanez/portaljs-starter-marmot) - Docker-based deployment & PortalJS template for [OpenMetadata](https://github.com/open-metadata/OpenMetadata)/[Marmot](https://github.com/marmotdata/marmot/).
 - [mjanez/ckan-docker](https://github.com/mjanez/ckan-docker) - A custom-built platform based on Docker with specific extensions for spatial data and [GeoDCAT-AP](https://github.com/SEMICeu/GeoDCAT-AP)/[INSPIRE](https://github.com/INSPIRE-MIF/technical-guidelines).
 - [mjanez/minimum-viable-dataspace](https://github.com/mjanez/minimum-viable-dataspace) - Minimum Viable Dataspace (MVD) deployment kit.
